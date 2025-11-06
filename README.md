@@ -7,7 +7,8 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
-![ByteLock Landing Page](Landing.png)
+![ByteLock Landing Page](https://github.com/user-attachments/assets/f3d1530d-43ea-41c0-b949-03f9c4846ce3)
+
 
 ## Live Demo
 
